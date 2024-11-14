@@ -1,0 +1,23 @@
+.login-container {
+    display: flex;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-color: #f8f9fa;
+}
+
+.login-card {
+    display: flex;
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+}
+
+.login-form {
+    padding: 2rem;
+    width: 24rem;
+    background-color: white;
+}
+
+.login-banner {
+    width: 24rem;
+    background: url('https://i.imgur.com/4TS42Xa.jpeg') center/cover;
+}
